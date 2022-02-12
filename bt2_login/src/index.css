@@ -1,0 +1,26 @@
+.container {
+  border: 3px solid red;
+  width: 320px;
+  margin: auto;
+  margin-top: 40px;
+}
+h1,p{
+  text-align: center;
+}
+.form-signin{
+  padding: 12px;
+}
+input{
+  margin-left: 12px;
+}
+.button{
+  text-align: center;
+  margin: 12px;
+}
+button{
+  background-color: blue;
+  color: #fff;
+  padding: 8px 12px;
+}
+ 
+
